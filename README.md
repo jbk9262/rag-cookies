@@ -1,8 +1,3 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-blue)](https://www.linkedin.com/company/athina-ai/posts/?feedView=all)&nbsp;
-[![Twitter](https://img.shields.io/twitter/follow/AthinaAI?label=Follow%20@AthinaAI&style=social)](https://x.com/AthinaAI)&nbsp;
-[![Share](https://img.shields.io/badge/share-000000?logo=x&logoColor=white)](https://x.com/intent/tweet?text=Check%20out%20this%20project%20on%20GitHub:%20https://github.com/athina-ai/rag-cookbooks)&nbsp;
-[![Share](https://img.shields.io/badge/share-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/athina-ai/rag-cookbooks)&nbsp;
-[![Share](https://img.shields.io/badge/share-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/submit?title=Check%20out%20this%20project%20on%20GitHub:%20https://github.com/athina-ai/rag-cookbooks)
 
 >If you find this repository helpful, please consider giving it a star⭐️
 
@@ -81,11 +76,6 @@ cd rag-cookbooks
 ```
 Once you are in the 'rag-cookbooks' directory, follow the detailed implementation for each technique.
 
-## Creators + Contributors👨🏻‍💻
-[![Contributors](https://contrib.rocks/image?repo=athina-ai/cookbooks)](https://github.com/athina-ai/cookbooks/graphs/contributors)
-
-## Contributing🤝
-If you have a new technique or improvement to suggest, we welcome contributions from the community!
 
 ## License📝
 This project is licensed under [MIT License](LICENSE)
